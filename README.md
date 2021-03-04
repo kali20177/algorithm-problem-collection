@@ -9,3 +9,5 @@
 https://my.oschina.net/u/2360415/blog/741253
 https://blog.csdn.net/bladeandmaster88/article/details/52551152
 
+3. 两个栈模拟一个队列
+https://www.geeksforgeeks.org/queue-using-stacks/
